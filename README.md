@@ -1,2 +1,7 @@
-# dio-lab-sistema-bancario
-Repositório do lab “Criando um Sistema Bancário em Python” da Digital Innovation One.
+# Criando um Sistema Bancário em Python
+
+Repositório desenvolvido para fins de estudo da linguagem Python.
+
+## Objetivo
+
+Criar um Sistema Bancário com três operações essenciais: depósito, saque e extrato.
